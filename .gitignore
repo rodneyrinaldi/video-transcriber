@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+build/
+
+# segredos e estado local (cópia em D:\Sincronizado\tecnologia\envs\video-transcriber\)
+config.json
+.env
+.env.*
+!.env.example
+.video-transcriber-estado/
+dist/
+*.spec

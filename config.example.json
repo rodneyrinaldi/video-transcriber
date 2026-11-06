@@ -1,0 +1,14 @@
+{
+  "whisper": {
+    "modelo": "small",
+    "idioma": "pt",
+    "dispositivo": "auto",
+    "tipo_computo": "auto"
+  },
+  "ollama": {
+    "habilitado": true,
+    "url": "http://192.168.0.10:11434",
+    "modelo": "qwen2.5:7b",
+    "timeout_s": 120
+  }
+}
